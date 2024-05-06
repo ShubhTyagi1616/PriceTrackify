@@ -11,15 +11,10 @@
 3. 🔋 [Features](#features)
 4. 🕸️ [Snippets](#snippets)
 5. 🔗 [Links](#links)
-6. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
 Developed using Next.js and Bright Data's webunlocker, this e-commerce product scraping site is designed to assist users in making informed decisions. It notifies users when a product drops in price and helps competitors by alerting them when the product is out of stock, all managed through cron jobs.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -64,7 +59,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/pricewise.git
+git clone (https://github.com/ShubhTyagi1616/PriceTrackify.git)
 cd pricewise
 ```
 
@@ -778,26 +773,4 @@ export const formatNumber = (num: number = 0) => {
 ## <a name="links">🔗 Links</a>
 
 Assets used in the project are [here](https://drive.google.com/file/d/1v6h993BgYX6axBoIXFbZ9HQAgqbR4PSH/view?usp=sharing)
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js 14 Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
-
 #
